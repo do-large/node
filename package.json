@@ -7,10 +7,10 @@
         "dev": "concurrently --kill-others-on-fail \"yarn server\" \"yarn client\""
     },
     "dependencies": {
-        "body-parser": "^1.18.3",
+        "body-parser": "^1.20.1",
         "crypto": "^1.0.1",
         "errorhandler": "^1.5.1",
-        "express": "^4.16.4",
+        "express": "^4.18.2",
         "express-error-handler": "^1.1.0",
         "express-mysql-session": "^2.1.0",
         "express-session": "^1.17.0",
